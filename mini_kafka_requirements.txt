@@ -1,0 +1,6 @@
+# No external dependencies — uses Python standard library only
+# Python 3.8+ required
+
+# Standard library modules used:
+# threading, time, hashlib, json, os, shutil, random
+# dataclasses, typing, datetime, enum, collections, uuid, pathlib
